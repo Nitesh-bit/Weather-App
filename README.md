@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github URL](https://github.com/Nitesh-bit/Weather-App)
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://nitesh-bit.github.io/Weather-App/)
 
 ## My process
 
@@ -53,3 +53,4 @@ I learned how to fetch the details using Rapid API for displaying the weather de
 ## Acknowledgments
 
 I would like to thanks StackOverflow as they helped me to solve mostly all my errors I encountered making this project amd Bootstrap for the designing part.
+Also please wait after searching the city name. It will show details after some time. The Reason because I am using free version of Rapid API so there is a limit of fetching the details. Also Weather for other city under this section will show "undefined" sometime so bear with it. Thank You!
