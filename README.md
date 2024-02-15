@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned alot from this project.
+I learned a lot from this project.
 I learned how to use bootstrap for designing.
 I learned how to fetch the details using Rapid API for displaying the weather details.
 
@@ -52,5 +52,5 @@ I learned how to fetch the details using Rapid API for displaying the weather de
 
 ## Acknowledgments
 
-I would like to thanks StackOverflow as they helped me to solve mostly all my errors I encountered making this project amd Bootstrap for the designing part.
-Also please wait after searching the city name. It will show details after some time. The Reason because I am using free version of Rapid API so there is a limit of fetching the details. Also Weather for other city under this section will show "undefined" sometime so bear with it. Thank You!
+I want to thank StackOverflow as they helped me to solve mostly all the errors I encountered making this project and Bootstrap for the designing part.
+Also please wait after searching the city name. It will show details after some time. The reason is that I am using a free version of Rapid API, so fetching the details is limited. Also, Weather for other cities under this section will show "undefined" sometimes so bear with it. Thank You!
